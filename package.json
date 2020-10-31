@@ -74,7 +74,7 @@
     "yargs": "^15.4.1"
   },
   "dependencies": {
-    "acorn": "^8.0.1",
+    "acorn": "^8.0.4",
     "bl": "2.2.1",
     "clipboard": "^2.0.6",
     "constantinople": "^4.0.1",
