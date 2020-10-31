@@ -8896,10 +8896,10 @@ uglify-js@^2.4.19, uglify-js@^2.6.0, uglify-js@^2.6.1, uglify-js@^3.0.5, uglify-
   optionalDependencies:
     uglify-to-browserify "~1.0.0"
 
-uglify-js@^3.10.3:
-  version "3.10.3"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.10.3.tgz#f0d2f99736c14de46d2d24649ba328be3e71c3bf"
-  integrity sha512-Lh00i69Uf6G74mvYpHCI9KVVXLcHW/xu79YTvH7Mkc9zyKUeSPz0owW0dguj0Scavns3ZOh3wY63J0Zb97Za2g==
+uglify-js@^3.11.1:
+  version "3.11.4"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.11.4.tgz#b47b7ae99d4bd1dca65b53aaa69caa0909e6fadf"
+  integrity sha512-FyYnoxVL1D6+jDGQpbK5jW6y/2JlVfRfEeQ67BPCUg5wfCjaKOpr2XeceE4QL+MkhxliLtf5EbrMDZgzpt2CNw==
 
 uglify-to-browserify@~1.0.0:
   version "1.0.2"
